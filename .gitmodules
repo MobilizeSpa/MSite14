@@ -2,3 +2,8 @@
 	path = OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 14.0
+
+[submodule "felipanga/task_subtask_checklist"]
+	path = felipanga/task_subtask_checklist
+	url = git@github.com:felipanga/task_subtask_checklist.git
+	branch = 14.0
